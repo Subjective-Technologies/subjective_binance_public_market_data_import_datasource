@@ -1,4 +1,5 @@
 {
+  "description": "Starts ingestion of local/public ticker feed data into the trading pipeline for downstream processing and storage.",
   "domainCategory": "Trading",
   "subjectiveTechnologyElement": "Pipelines",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "Public Market Data Import",
-      "text": "Subjective datasource implementation for SubjectivePublicMarketDataImportDataSource.",
+      "text": "Starts ingestion of local/public ticker feed data into the trading pipeline for downstream processing and storage.",
       "image": {
         "src": "/subjective_binance_public_market_data_import_datasource/icon.svg",
         "alt": "Public Market Data Import icon"
